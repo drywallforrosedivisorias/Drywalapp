@@ -47,6 +47,10 @@ links = {
         "https://docs.google.com/spreadsheets/d/1H7k_FB736y4aHhIfEEMlRF8hvAXF9tBVbshINdtWbkI/edit?usp=drive_link",
         "pedidoEntrada"
     ],
+    "📠Vender": [
+        "https://docs.google.com/spreadsheets/d/1ykz9y04WJgL_UBxIZt3D8NTZ8Pk7oErWTgL29NDmb4w/edit?usp=drive_link",
+        "pedidoEntrada"
+    ],
     "1️⃣ Lançar Frete": [
         "https://docs.google.com/forms/d/e/1FAIpQLSeOBweel9kY14p_ge8y5cJERnBdjOGQcj0C6eMKxxkgdu0Pkw/viewform",
         "Lançar Frete"
